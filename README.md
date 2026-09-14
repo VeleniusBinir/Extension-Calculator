@@ -84,7 +84,7 @@ It uses a restricted tokenizer and parser with an explicit set of supported oper
 
 Author
 
-Velenius
+VeleniusBinir
 
 License
 
