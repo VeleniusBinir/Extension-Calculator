@@ -1,0 +1,7 @@
+{
+    "display_name": "Calculator",
+    "author": "Velenius",
+    "version": "1.0.0",
+    "js": "index.js",
+    "homePage": "https://github.com/VeleniusBinir/Extension-Calculator"
+}
